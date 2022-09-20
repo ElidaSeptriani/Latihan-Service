@@ -1,3 +1,3 @@
 # Latihan-Service
-jdk version : 17.0.2
-sringboot : 2.7.3
+jdk version : 17.0.2 
+springboot : 2.7.3
